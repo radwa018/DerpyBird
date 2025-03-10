@@ -1,0 +1,20 @@
+# Ignore Unity auto-generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+
+# Ignore Unity build outputs
+/Builds/
+/Build/
+
+# Ignore Unity crash reports and logs
+sysinfo.txt
+crashlytics-build.properties
+
+# Keep only necessary Unity project files
+!Assets/
+!ProjectSettings/
+!Packages/
+
